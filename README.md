@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @harshalkotkar156
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-harshalkotkar156/harshalkotkar156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+.
+-👋 Hi, I'm Harshal Kotkar! 
+- 🎓 Student at PESMCOE college in 2nd year Information Technology department.
+- 👀 I'm interested in working on different projects and solving coding problems.
+- 🌱 Currently learning and exploring new technologies.
+- 💞️ I'm looking to collaborate on exciting projects.
+- 📫 Reach me via email: [harshalkotkar156@example.com]
+(mailto:harshalkotkar156@example.com)
