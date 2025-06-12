@@ -1,5 +1,5 @@
 # 💫 About Me:
-. -👋 Hi, I'm Harshal Kotkar!<br><br>🎓 Student at PESMCOE college in 3rd year Information Technology department.<br>👀 I'm interested in working on different projects and solving coding problems.<br>🌱 Currently learning and exploring new technologies.<br>💞️ I'm looking to collaborate on exciting projects.<br>📫 Reach me via email: [harshalkotkar156@example.com] (mailto:harshalkotkar156@example.com)
+. -👋 Hi, I'm Harshal Kotkar!<br><br>🎓 Student at PESMCOE college in Final year Information Technology department.<br>👀 I'm interested in working on different projects and solving coding problems.<br>🌱 Currently learning and exploring new technologies.<br>💞️ I'm looking to collaborate on exciting projects.<br>📫 Reach me via email: [harshalkotkar04@example.com] (mailto:harshalkotkar04@example.com)
 
 
 ## 🌐 Socials:
